@@ -1,0 +1,3 @@
+NET STOP «Windows Search»
+
+chkdsk.exe /f /r
